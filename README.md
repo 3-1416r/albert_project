@@ -12,6 +12,7 @@ Briefly describe what the project does and its purpose. Include any unique featu
 - Feature 1: Describe the feature and its benefit.
 - Feature 2: Highlight another feature and why it's useful.
 - Feature 3: If applicable, describe another key aspect of the project.
+- Feature 4
 
 ## Installation
 Provide step-by-step instructions on how to get a development environment running.
