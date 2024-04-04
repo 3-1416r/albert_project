@@ -13,8 +13,11 @@ Briefly describe what the project does and its purpose. Include any unique featu
 
 ## Installation
 Provide step-by-step instructions on how to get a development environment running.
+## Group member
+Margaux, Chania, Meni , Pierre, Evaluna
 
 ```bash
 git clone https://github.com/username/projectname.git
 cd projectname
 pip install -r requirements.txt
+
