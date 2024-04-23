@@ -5,7 +5,7 @@ The goal of our project is to be able to predict the amount of likes on an Insta
 
 ## Dataset
 This dataset has infomations (date,nb of like, description, URL) about all the publications from [Instagram's Instagram acount](https://www.instagram.com/instagram/).
-Those informartion were collected using selenium in the get_data.ipynb notebook
+Those informartions were collected using selenium in the get_data.ipynb notebook
 All the data we used can be found on this [drive](https://drive.google.com/drive/folders/1KKpLS07tiZiVGEmfxpXyybQwfPcuWEzD?usp=sharing).
 
 ## Group members
