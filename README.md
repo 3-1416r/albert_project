@@ -9,14 +9,15 @@ Those informartion were collected using selenium in the [get_data.ipynb](https:/
 All the data we used can be found on this [drive](https://drive.google.com/drive/folders/1KKpLS07tiZiVGEmfxpXyybQwfPcuWEzD?usp=sharing).
 
 ## Data cleaning
-La préparation des données est une étape cruciale pour assurer l'efficacité des analyses ultérieures. Dans cette phase de notre projet, nous avons effectué les transformations et nettoyages suivants pour garantir que nos données soient prêtes pour l'analyse :
+Data preparation is a crucial step in ensuring the effectiveness of subsequent analyses. In this phase of our project, we carried out the following transformations and clean-ups to ensure that our data was ready for analysis:
 
-#Transformation des Données Numériques
-Conversion des Likes : Les likes, initialement présents sous forme textuelle, ont été convertis en entiers. Cette transformation est essentielle pour permettre les analyses numériques et statistiques, rendant les données compatibles avec divers outils et méthodes d'analyse.
-#Extraction et Transformation des Dates
-Décomposition de la Date : Afin de faciliter les analyses temporelles, nous avons décomposé les informations de date en plusieurs colonnes distinctes (jour, heure, mois, année). Cela nous permet d'effectuer des analyses plus détaillées et ciblées en fonction des périodes.
-Calcul du Temps Écoulé : Nous avons calculé le nombre de jours écoulés depuis la publication de chaque post pour suivre l'évolution temporelle des interactions. Cette métrique aide à analyser les tendances au fil du temps et à évaluer l'impact de la temporalité sur l'engagement des utilisateurs.
-Jour de la Semaine : L'extraction du jour de la semaine à partir de la date de publication permet d'analyser les tendances hebdomadaires. Comprendre quel jour de la semaine reçoit le plus d'interactions peut s'avérer utile pour optimiser les stratégies de publication.
+#Digital Data Transformation
+Likes conversion: Likes, initially present in text form, were converted to integers. This transformation is essential to enable numerical and statistical analysis, making the data compatible with various analysis tools and methods.
+
+#Date extraction and transformation
+Date decomposition: To facilitate temporal analyses, we have decomposed date information into several distinct columns (day, hour, month, year). This allows us to perform more detailed and targeted analyses according to time periods.
+Time Elapsed Calculation: We have calculated the number of days elapsed since the publication of each post to track the temporal evolution of interactions. This metric helps analyze trends over time and assess the impact of temporality on user engagement.
+Day of the Week: Extracting the day of the week from the date of publication enables analysis of weekly trends. Understanding which day of the week receives the most interactions can be useful for optimizing publication strategies.
 
 ## Presentation
 Here is a link to the presentation: Canva (https://www.canva.com/design/DAGDySTTzq8/0N8qlMnIeo6OPQECwa0TRA/edit?utm_content=DAGDySTTzq8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
