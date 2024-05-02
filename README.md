@@ -32,7 +32,12 @@ This part transforms the raw data into a format better suited to machine learnin
 #Post Type Classification
 - URL analysis: We have developed a system to identify the type of publication (Reel or photo) from the URL. This classification helps differentiate content strategies and analyze their relative effectiveness according to media type.
 
+## Prediction limits
+- Number of likes at the time Instagram published the photo
+- Referencing hashtags (the most popular at least))
+- Limited volume of training data
 
+  
 ## Presentation
 Here is a link to the presentation: Canva (https://www.canva.com/design/DAGDySTTzq8/0N8qlMnIeo6OPQECwa0TRA/edit?utm_content=DAGDySTTzq8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
