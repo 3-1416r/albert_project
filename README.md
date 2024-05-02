@@ -19,6 +19,16 @@ Date decomposition: To facilitate temporal analyses, we have decomposed date inf
 Time Elapsed Calculation: We have calculated the number of days elapsed since the publication of each post to track the temporal evolution of interactions. This metric helps analyze trends over time and assess the impact of temporality on user engagement.
 Day of the Week: Extracting the day of the week from the date of publication enables analysis of weekly trends. Understanding which day of the week receives the most interactions can be useful for optimizing publication strategies.
 
+## Feature engineering
+This part transforms the raw data into a format better suited to machine learning algorithms. Here are the key methods we used:
+
+#Text analysis
+Symbol Counting: We calculated the number of hashtags (#) and mentions (@) in post captions to assess the engagement and reach of each post. This simple yet powerful metric helps quantify popularity and user interaction with content.
+#Dimensionality reduction
+- TF-IDF (Term Frequency-Inverse Document Frequency): This technique was used to analyze the relative importance of words in captions compared to the corpus as a whole. It extracts the most significant terms and reduces the noise associated with frequent but uninformative words.
+- Principal Component Analysis (PCA): To reduce the dimensionality of textual data while preserving essential information, we applied PCA. This method is crucial for simplifying machine learning models by reducing the number of input variables without losing critical information.
+#Post Type Classification
+URL analysis: We have developed a system to identify the type of publication (Reel or photo) from the URL. This classification helps to differentiate
 ## Presentation
 Here is a link to the presentation: Canva (https://www.canva.com/design/DAGDySTTzq8/0N8qlMnIeo6OPQECwa0TRA/edit?utm_content=DAGDySTTzq8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
