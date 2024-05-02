@@ -24,9 +24,11 @@ This part transforms the raw data into a format better suited to machine learnin
 
 #Text analysis
 - Symbol Counting: We calculated the number of hashtags (#) and mentions (@) in post captions to assess the engagement and reach of each post. This simple yet powerful metric helps quantify popularity and user interaction with content.
+  
 #Dimensionality reduction
 - TF-IDF (Term Frequency-Inverse Document Frequency): This technique was used to analyze the relative importance of words in captions compared to the corpus as a whole. It extracts the most significant terms and reduces the noise associated with frequent but uninformative words.
 - Principal Component Analysis (PCA): To reduce the dimensionality of textual data while preserving essential information, we applied PCA. This method is crucial for simplifying machine learning models by reducing the number of input variables without losing critical information.
+  
 #Post Type Classification
 - URL analysis: We have developed a system to identify the type of publication (Reel or photo) from the URL. This classification helps differentiate content strategies and analyze their relative effectiveness according to media type.
 
