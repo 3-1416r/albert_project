@@ -8,6 +8,10 @@ This dataset has infomations (date, number of like, description, URL) about all 
 Those informartion were collected using selenium in the [get_data.ipynb](https://github.com/3-1416r/albert_project/blob/main/get_data.ipynb) notebook. We cleaned and did some feature engineering in the [clean_data.ipynb](https://github.com/3-1416r/albert_project/blob/main/clean_data.ipynb) notebook.
 All the data we used can be found on this [drive](https://drive.google.com/drive/folders/1KKpLS07tiZiVGEmfxpXyybQwfPcuWEzD?usp=sharing).
 
+## Presentation
+Here is a link to the presentation: Canva (https://www.canva.com/design/DAGDySTTzq8/0N8qlMnIeo6OPQECwa0TRA/edit?utm_content=DAGDySTTzq8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
 ## Group members
 Margaux, Chania, Evaluna, Meni & Pierre
 
